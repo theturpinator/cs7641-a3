@@ -12,6 +12,8 @@ import random as rand
 
 alg = 'PCA'
 dataset_name = 'wine-quality'
+
+# do not modify
 model_name = 'kmeans'
 model_type = 'unsupervized'
 
